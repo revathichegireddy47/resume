@@ -1,0 +1,99 @@
+.main{
+border:2px solid red;
+padding: 2%;
+display: flex;
+flex-direction: row;
+background-color: lavender;
+width: 100%;
+}
+h2{
+  color: brown;
+}
+h4{
+  color: blue;
+}
+a{
+  color: brown;
+  font-size: 40px;
+  word-wrap: break-word;
+}
+.right{
+  border: 2px solid blue;
+  padding: 2%;
+  margin: 2%;
+  width: 90%;
+  background-color: pink;
+}
+.left{
+  border: 2px solid green;
+  padding: 2%;
+  margin: 2%;
+  width: 90%;
+  text-align: center;
+  background-color: skyblue;
+}
+#name{
+  color:purple;
+  font-size: 30px;
+  text-align: center;
+}
+.left img{
+  width: 50%;
+  border-radius: 50%;
+  border: 2px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media only screen and (min-width:320px) and (max-width :480px){
+  .main{
+  border:2px solid red;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  background-color: blue;
+  width: 100%;
+  }
+  h2{
+    color: red;
+  }
+  a{
+    color: brown;
+    font-size: 20px;
+    word-wrap: break-word;
+  }
+  .right{
+    border: 2px solid blue;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    background-color: pink;
+  }
+  .left{
+    border: 2px solid green;
+    padding: 2%;
+    margin: 2%;
+    width: 70%;
+    text-align: center;
+    font-size: 13;
+    background-color: skyblue;
+  }
+  #name{
+    color:purple;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table{
+    width: 90%;
+    overflow: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 50%;
+    border: 2px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}

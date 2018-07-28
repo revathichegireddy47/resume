@@ -1,0 +1,56 @@
+{
+  "details":{
+  "image":"images.jpg",
+  "name":"chikki",
+  "phno":"+91-9956372826",
+  "email":"revathichegireddy@gmail.com",
+  "Address":"nimra nagar,jupudi"
+
+},
+"career":{
+  "info":"to pursue a challenging career and to be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills"
+},
+"education":[
+  {
+    "Qualification":"B-tech",
+    "Institute":"MIC college of technology",
+    "Year":"2016-2020",
+    "Percentage":"80%"
+  },
+  {
+    "Qualification":"Intermediate",
+    "Institute":"Narayana jr college",
+    "Year":"2014-2016",
+    "Percentage":"98%"
+  },
+  {
+    "Qualification":"ssc",
+    "Institute":"Narayana e-techno school",
+    "Year":"2013-2014",
+    "Percentage":"95%"
+  }
+],
+"skills":[{
+  "tittle":"programming language",
+  "info":["c,c++,java,R,python"]
+},
+
+{
+"tittle":"databases",
+"info":["oracle,SQL"]
+},
+
+{
+"tittle":"operating systems",
+"info":["windows,mac,linux"]
+}
+],
+"Achievements":[
+{
+  "info":"attended workshops for internet of things"
+},
+{
+  "info":"1st in coding"
+}
+]
+}

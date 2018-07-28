@@ -1,0 +1,34 @@
+.parent{
+  border: 2px solid red;
+  display: flex;
+  flex-direction: row;
+}
+
+.childone{
+  border: 2px solid blue;
+  padding: 2%;
+  margin: 2%;
+  width: 70%;
+  text-align: center;
+}
+
+.childtwo{
+  border: 2px solid green;
+  padding: 2%;
+  margin: 2%;
+  width: 70%;
+}
+a{
+  word-wrap: break-word;
+}
+
+.childone img{
+  width: 70%;
+  border: 1px solid red;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 8px 9px black;
+
+}
